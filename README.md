@@ -1,26 +1,5 @@
-# FiveM - Bulgarian CustomRP [vRP] [Release]
- 
-# Custom RP
-
-![CustomRP](https://i.imgur.com/ecAndqD.png)
-# Donate/PayPal
-
-[PayPal]
 
 
-# Discord
-
-If you need help about the server, scripts or anything else, head over to my Discord group: https://discord.gg/9NcHFHB 
-or DM: TheBeast#1069
-
-# Info
-
-- No bugs or exploits
-- Cars are removed. If you want to add you will need to add some and edit [VRP]->vrp->cfg->garages.cfg and server.cfg
-- By default the server language is bulgarian
-- This is template version of CustomRP. If you want the full version(with cars, MLOs, more scripts, player accesories and more) please contact me on Discord (TheBeast#1069)
-
-# Installation
 
 1) Copy the folders inside MASTER to your FXServer/Resources folder. DO NOT COPY THE MASTER FOLDER ITSELF.
 
